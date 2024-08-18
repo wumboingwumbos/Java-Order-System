@@ -1,0 +1,14 @@
+{
+    "jdk.runConfig.vmOptions": "--enable-preview --source 22",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\scout\\Java\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar"
+    ]
+}
